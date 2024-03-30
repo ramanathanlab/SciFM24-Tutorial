@@ -6,4 +6,4 @@ Symposium Link: https://micde.umich.edu/news-events/annual-symposia/2024-symposi
 
 # Notebooks
 
-`GenSLM DownstreamTasks`[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramanathanlab/SciFM24-Tutorial/blob/main/notebooks/GenSLM_Downstream.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramanathanlab/SciFM24-Tutorial/blob/main/notebooks/GenSLM_Downstream.ipynb) **GenSLM DownstreamTasks**
