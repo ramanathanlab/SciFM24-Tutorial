@@ -15,4 +15,7 @@ Symposium Link: https://micde.umich.edu/news-events/annual-symposia/2024-symposi
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/drive/1MLKC9usK-rVZv42exuPgRV398hIHAfcZ?usp=sharing](https://colab.research.google.com/drive/1MLKC9usK-rVZv42exuPgRV398hIHAfcZ?usp=sharing) **Agents**
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb#scrollTo=DUNKRBNSvk6](https://colab.research.google.com/github/ramanathanlab/SciFM24-Tutorial/blob/main/notebooks/VirtualScreen.ipynb)) **Virtual Screening Tutorial**
+) **RFdiffusion (Baker's Lab)**
+
 
