@@ -1,3 +1,5 @@
 This folder contains materials for demonstrating downstream applications of pre-trained LLMs through predicting interacting protein interfaces.
 
 The notebook should be fairly self-explanatory.
+
+Note that you need to unzip the data file before using it.
