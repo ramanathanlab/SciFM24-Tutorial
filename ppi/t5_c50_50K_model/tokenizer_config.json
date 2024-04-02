@@ -1,0 +1,8 @@
+{
+  "clean_up_tokenization_spaces": true,
+  "do_lower_case": false,
+  "ignore_mismatched_size": true,
+  "is_split_into_words": true,
+  "model_max_length": 2048,
+  "tokenizer_class": "EsmTokenizer"
+}
