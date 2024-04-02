@@ -16,4 +16,7 @@ Symposium Link: https://micde.umich.edu/news-events/annual-symposia/2024-symposi
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramanathanlab/SciFM24-Tutorial/blob/main/notebooks/VirtualScreen.ipynb) **Virtual Screening Tutorial**
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramanathanlab/SciFM24-Tutorial/blob/main/rag/SciFMRAGTutorial.ipynb) **RAG**
+
+
 
