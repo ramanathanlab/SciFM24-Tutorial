@@ -1,5 +1,3 @@
-Contains protein-protein interaction material.
+This folder contains materials for demonstrating downstream applications of pre-trained LLMs through predicting interacting protein interfaces.
 
-Includes:
-- pre-trained model
-- toy dataset
+The notebook should be fairly self-explanatory.
